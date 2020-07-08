@@ -6,5 +6,5 @@ def square_array(array)
    new_array << num
    puts new_array
   end
-  
+  puts square_array(array)
 end
