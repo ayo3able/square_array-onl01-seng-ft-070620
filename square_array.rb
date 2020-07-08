@@ -1,6 +1,6 @@
 
 def square_array(array)
-  array.each do |num|
+ new_num= array.each do |num|
    num ** 2
    
   end
